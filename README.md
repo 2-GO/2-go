@@ -1,5 +1,11 @@
-## Hi👋, I'm Gabriel, an IT Professional. 
-testing. dskajdsia iodjsaoods ai0jsadoasd
+## 👋 Hi, I'm Gabriel, an IT Professional. 
+
+## 💻 IT and Cybersecurity Projects.
+
+## 📑 Certifications.
+[Security+](https://github.com/2-GO/IT/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
+
+
 
 
 <!--
