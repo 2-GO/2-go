@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Gabriel](https://www.linkedin.com/in/2-go/), an IT Professional. 
+## 👋 Hi, I'm [Gabriel](https://www.linkedin.com/in/2-go/), an IT Professional. 
 
 ## 💻 IT and Cybersecurity Projects.
 
