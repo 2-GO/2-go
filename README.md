@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm [Gabriel](https://www.linkedin.com/in/2-go/), an IT Professional. 
 
 ### 💻 IT and Cybersecurity Projects.
+[Traffic Analysis Between Azure VMs Using Wireshark](https://github.com/2-GO/NT_AZURE_VM)
 
 ### 📑 Certifications.
 [Security+](https://github.com/2-GO/IT/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
