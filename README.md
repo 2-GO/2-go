@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm [Gabriel](https://www.linkedin.com/in/2-go/), an IT Professional. 
 
-## 💻 IT and Cybersecurity Projects.
+### 💻 IT and Cybersecurity Projects.
 
-## 📑 Certifications.
+### 📑 Certifications.
 [Security+](https://github.com/2-GO/IT/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
 
-## 🔗 Lets [Connect](https://www.linkedin.com/in/2-go/)
+### 🔗 Lets [Connect](https://www.linkedin.com/in/2-go/)
 
 
 
