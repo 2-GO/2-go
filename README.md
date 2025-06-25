@@ -1,14 +1,15 @@
 ## 👋 Hi, I'm [Gabriel](https://www.linkedin.com/in/2-go/), an IT Professional. 
+Passionate about IT and cybersecurity, with hands-on experience building secure networks and a strong commitment to continuous learning. 
 
-### 💻 IT and Cybersecurity Projects.
+## 💻 IT and Cybersecurity Projects.
 [Traffic Analysis Between Azure VMs Using Wireshark](https://github.com/2-GO/NT_AZURE_VM)
 
 [On-Premise Active Directory Deployed in Azure Cloud](https://github.com/2-GO/ActiveDirectory-AzureCloud/blob/main/README.md)
 
-### 📑 Certifications.
+## 📑 Certifications.
 [Security+](https://github.com/2-GO/IT/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
 
-### 🔗 [Connect on Linkedin](https://www.linkedin.com/in/2-go/)
+## 🔗 [Connect on Linkedin](https://www.linkedin.com/in/2-go/)
 
 
 
