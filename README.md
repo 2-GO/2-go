@@ -5,7 +5,7 @@
 ### 📑 Certifications.
 [Security+](https://github.com/2-GO/IT/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
 
-### 🔗 Lets [Connect](https://www.linkedin.com/in/2-go/)
+### 🔗 [Connect on Linkedin](https://www.linkedin.com/in/2-go/)
 
 
 
