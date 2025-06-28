@@ -6,6 +6,7 @@ Passionate about IT and cybersecurity, with hands-on experience building secure 
 
 [On-Premise Active Directory Deployed in Azure Cloud](https://github.com/2-GO/ActiveDirectory-AzureCloud/blob/main/README.md)
 
+[Cloud-Based Honeypot with Log Analytics & Attack Visualization](https://github.com/2-GO/ATTACKERGEOLOCATIONS)
 ## 📑 Certifications.
 [Security+](https://github.com/2-GO/IT/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
 
